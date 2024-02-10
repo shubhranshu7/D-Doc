@@ -14,7 +14,7 @@ DDoc (**D**ecentralized **Doc**uments) aims to issue, verify, and revoke documen
 
 ## Usage
 
-Download the DDoc [APK](https://drive.google.com/file/d/1G2uijADFfJasHJFD2TEBgISmOZBW5aa2/view?usp=sharing) from the [Google Drive](https://drive.google.com/drive/folders/1-2eOHs4HIABcXkpoNZLIqaSCXfGUeqYI?usp=sharing) and install the app on your android smartphone. 
+Download the DDoc [APK](https://drive.google.com/file/d/1G2uijADFfJasHJFD2TEBgISmOZBW5aa2/view?usp=sharing) from the [Google Drive](https://drive.google.com/drive/folders/1-2eOHs4HIABcXkpoNZLIqaSCXfGUeqYI?usp=sharing) and install the app on your **android** smartphone. 
 
 After that run the app!
 
