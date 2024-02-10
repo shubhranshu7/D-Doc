@@ -1,0 +1,6 @@
+[submodule "Ddoc-Backend"]
+	path = Ddoc-Backend
+	url = git@github.com:g-s01/DDoc-backend.git
+[submodule "Ddoc-Frontend"]
+	path = Ddoc-Frontend
+	url = git@github.com:Adittya-Gupta/DCert-Frontend.git
