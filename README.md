@@ -18,6 +18,8 @@ Download the DDoc [APK](https://drive.google.com/file/d/1G2uijADFfJasHJFD2TEBgIS
 
 After that run the app!
 
+(Note: You can issue documents and verify document issued by ONLY those emails that are registered on the app.)
+
 ## Credits
 
 * [Gautam Sharma](https://g-s01.github.io/)
