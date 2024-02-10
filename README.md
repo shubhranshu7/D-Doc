@@ -31,4 +31,4 @@ After that run the app!
 * [Rupayan Daripa](https://github.com/rupayandaripa)
 * [Bhogi Sai Sathwik](https://github.com/BHOGISAISATHWIK)
 * [Sanchay Barnwal](https://github.com/Geekomaniac1009)
-* [Amey Rewanwar]
+* [Amey Rewanwar](https://github.com/ameyrevan)
