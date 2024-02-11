@@ -8,6 +8,8 @@ One can find the problem statement [here](https://cdn.sanity.io/files/rj77melf/p
 
 DDoc (**D**ecentralized **Doc**uments) aims to issue, verify, and revoke documents by educational institutions in a decentralized manner.
 
+To know more about the working of the dApp refer to the presentation slides [here](https://github.com/g-s01/D-Doc/blob/main/Kriti%202024%20Digital%20Identity%20PS%20Presentation.pdf).
+
 * `Frontend`: [Flutter](https://flutter.dev/)
 * `Backend`: [Python](https://www.python.org/) hosted on [PythonAnywhere](https://www.pythonanywhere.com/)
 * `Smart Contract`: [Solidity](https://soliditylang.org/), deployed using [Truffle](https://trufflesuite.com/docs/) on [Sepolia TestNet](https://sepolia.etherscan.io/)
