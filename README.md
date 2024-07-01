@@ -29,7 +29,7 @@ After that run the app!
 * [Gautam Sharma](https://g-s01.github.io/)
 * [Adittya Gupta](https://adittya-gupta.github.io/)
 * [Mayank Agrawal](https://github.com/mayank21072004)
-* [Shubranshu Pandey](https://github.com/shubhranshu7)
+* [Shubhranshu Pandey](https://github.com/shubhranshu7)
 * [Rupayan Daripa](https://github.com/rupayandaripa)
 * [Bhogi Sai Sathwik](https://github.com/BHOGISAISATHWIK)
 * [Sanchay Barnwal](https://github.com/Geekomaniac1009)
